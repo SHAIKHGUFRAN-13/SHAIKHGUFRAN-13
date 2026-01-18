@@ -15,7 +15,7 @@ I am currently pursuing M.Sc IT at Lok Jagruti Kendra University. I specialize i
 </a>
 <a href="mailto:gufranshaikh1382004@gmail.com?subject=Hello%20Gufran">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>>
+</a>
 
 ---
 
