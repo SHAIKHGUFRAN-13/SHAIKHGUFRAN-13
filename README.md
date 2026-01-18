@@ -11,7 +11,9 @@ I am currently pursuing M.Sc IT at Lok Jagruti Kendra University. I specialize i
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gufran-shaikh-analyst) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gufranshaikh1382004@gmail.com) 
+[![Email]<a href="mailto:gufranshaikh1382004@gmail.com?subject=Hello%20Gufran">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Gufran">
+</a>
 
 ---
 
