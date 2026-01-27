@@ -36,9 +36,6 @@ I am currently pursuing M.Sc IT at Lok Jagruti Kendra University. I specialize i
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAIKHGUFRAN-13&theme=dark&layout=compact" alt="Top Langs" height="150px"/>
 </p>
 
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=SHAIKHGUFRAN-13&theme=dark)
 
----<p align="center">
-  <b>Profile Visitors Count</b><br>
-  <img src="https://visitcount.itsvg.in/api?id=SHAIKHGUFRAN-13&label=Profile%20Views&color=blue&style=flat" alt="Visitor Count" />
-</p>
+
+
