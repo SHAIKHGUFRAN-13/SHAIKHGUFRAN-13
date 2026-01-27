@@ -33,7 +33,6 @@ I am currently pursuing M.Sc IT at Lok Jagruti Kendra University. I specialize i
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=SHAIKHGUFRAN-13&theme=dark&show_icons=true&include_all_commits=true&count_private=true" alt="Gufran's Stats" height="150px"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAIKHGUFRAN-13&theme=dark&layout=compact" alt="Top Langs" height="150px"/>
 </p>
 
 
