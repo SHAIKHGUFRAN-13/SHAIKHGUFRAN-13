@@ -27,13 +27,7 @@ I am currently pursuing M.Sc IT at Lok Jagruti Kendra University. I specialize i
 ### 🗄️ Database & Tools
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
----
 
-# 📈 GitHub Insights:
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=SHAIKHGUFRAN-13&theme=dark&show_icons=true&include_all_commits=true&count_private=true" alt="Gufran's Stats" height="150px"/>&nbsp;
-</p>
 
 
 
