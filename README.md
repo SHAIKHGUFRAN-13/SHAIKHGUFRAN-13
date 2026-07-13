@@ -17,8 +17,7 @@ An AI-powered SaaS web app that turns raw Excel/CSV files into interactive dashb
 - **Key Features:** AI-generated insights, interactive charts, one-click PDF report export
 - **Tech Used:** No-code/AI app builder (Lovable), Data Analytics logic
 - 🔗 **Live Demo:** [guffiinsight.lovable.app](https://guffiinsight.lovable.app/)
-- 
-- 
+
 ## 🌐 Connect with me:
 <a href="https://linkedin.com/in/gufran-shaikh-analyst" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
