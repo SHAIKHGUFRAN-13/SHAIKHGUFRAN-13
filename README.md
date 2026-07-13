@@ -9,6 +9,15 @@ I am currently pursuing M.Sc IT at Lok Jagruti Kendra University. I specialize i
 * 🚀 **Value Proposition:** I don't just "analyze data"; I help companies find **opportunities to save costs and increase revenue** through SQL and Power BI.
 * 🚀 **Goal:** Open to **Internships or Entry-level roles** where I can apply my data skills to solve real business problems.
 
+---
+# 🚀 Projects:
+
+### 📊 [GuffiInsight – AI-Powered Excel & CSV Analytics Dashboard](https://guffiinsight.lovable.app/)
+An AI-powered SaaS web app that turns raw Excel/CSV files into interactive dashboards, smart insights, and shareable PDF reports — in seconds.
+- **Key Features:** AI-generated insights, interactive charts, one-click PDF report export
+- **Tech Used:** No-code/AI app builder (Lovable), Data Analytics logic
+- 🔗 **Live Demo:** [guffiinsight.lovable.app](https://guffiinsight.lovable.app/)
+- 
 ## 🌐 Connect with me:
 <a href="https://linkedin.com/in/gufran-shaikh-analyst" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
