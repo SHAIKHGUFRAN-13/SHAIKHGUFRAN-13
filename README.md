@@ -170,7 +170,7 @@ I am looking for opportunities where I can:
 * Build practical Data Analytics projects
 * Contribute to data-driven decision-making
 
-**Open to:** Data Analytics Internships | Data Analyst Internships | Entry-Level Opportunities
+**Open to:** Data Analytics Internships  | Entry-Level Opportunities
 
 📍 **Location:** Ahmedabad / Remote
 
@@ -180,15 +180,7 @@ I am looking for opportunities where I can:
 
 <div align="center">
 
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SHAIKHGUFRAN-13&show_icons=true&theme=tokyonight&hide_border=true" alt="Gufran's GitHub Stats" />
-
-  <br/><br/>
-
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SHAIKHGUFRAN-13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-  <br/><br/>
+  
 
   <!-- GitHub Streak Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHAIKHGUFRAN-13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
