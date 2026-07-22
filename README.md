@@ -180,18 +180,20 @@ I am looking for opportunities where I can:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SHAIKHGUFRAN-13&show_icons=true&theme=tokyonight&hide_border=true" alt="Gufran's GitHub Stats"/>
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SHAIKHGUFRAN-13&show_icons=true&theme=tokyonight&hide_border=true" alt="Gufran's GitHub Stats" />
 
-<br/><br/>
+  <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAIKHGUFRAN-13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <!-- Top Languages Card (Fixed URL Syntax) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SHAIKHGUFRAN-13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-<br/><br/>
+  <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=SHAIKHGUFRAN-13&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <!-- GitHub Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHAIKHGUFRAN-13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
-
 ---
 
 # 📫 Let's Connect
