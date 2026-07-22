@@ -39,7 +39,7 @@ I am currently developing my skills in **Microsoft Excel, SQL, and Python** and 
 
 ### 📊 Data Analytics & Spreadsheet
 
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-1F6FEB?style=for-the-badge)
 
 * Excel Formulas
@@ -53,7 +53,7 @@ I am currently developing my skills in **Microsoft Excel, SQL, and Python** and 
 
 ### 🗄️ SQL & Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
 * SQL Fundamentals
@@ -67,7 +67,7 @@ I am currently developing my skills in **Microsoft Excel, SQL, and Python** and 
 
 ### 🐍 Python
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 * Variables & Data Types
 * Conditions
@@ -80,10 +80,10 @@ I am currently developing my skills in **Microsoft Excel, SQL, and Python** and 
 
 ### 🔧 Tools
 
-![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -185,7 +185,7 @@ I am looking for opportunities where I can:
 
   <br/><br/>
 
-  <!-- Top Languages Card (Fixed URL Syntax) -->
+  <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SHAIKHGUFRAN-13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
   <br/><br/>
@@ -194,6 +194,7 @@ I am looking for opportunities where I can:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHAIKHGUFRAN-13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
+
 ---
 
 # 📫 Let's Connect
