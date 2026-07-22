@@ -1,42 +1,37 @@
 <div align="center">
 
-<!-- ✨ Animated Banner ✨ -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./gufran-banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./gufran-banner-light.svg?v=1">
-  <img src="./gufran-banner.svg?v=1" alt="Gufran Shaikh — Aspiring Data Analyst" width="100%"/>
-</picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-
 # 👋 Hi, I'm Gufran Shaikh
 
-### 📊 Aspiring Data Analyst | Integrated M.Sc. IT Student
+### 📊 Aspiring Data Analyst | Excel • SQL • Python
 
-I'm currently pursuing an **Integrated M.Sc. IT at LJ University, Ahmedabad**, and building my skills in **Data Analytics, Microsoft Excel, Python, and SQL**.
-
-I enjoy working with data, solving problems, and creating practical projects that turn raw information into something useful and easy to understand.
+*Turning data into insights and continuously learning through practical projects.*
 
 <br/>
 
-### 🎯 My Current Focus
-
-`Microsoft Excel` • `Python` • `SQL` • `Data Analytics`
-
-🌱 Currently learning **SQL for Data Analytics using MySQL**
-
-📊 Building practical projects with **Excel and Python**
-
-🐍 Improving my Python programming fundamentals through mini projects
-
-🚀 Looking for **Data Analytics Internships & Entry-Level Opportunities**
+<a href="https://www.linkedin.com/in/gufran-shaikh-analyst">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+<a href="mailto:gufranshaikh1382004@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
+</a>
 
 </div>
+
+---
+
+## 💫 About Me
+
+Hi, I'm **Gufran Shaikh**, an Integrated M.Sc. IT student at **LJ University, Ahmedabad**, aspiring to build a career in **Data Analytics**.
+
+I am currently developing my skills in **Microsoft Excel, SQL, and Python** and applying my knowledge through practical projects.
+
+* 🎓 Pursuing **Integrated M.Sc. IT** at LJ University
+* 📊 Interested in **Data Analytics and Business Insights**
+* 📗 Learning **SQL for Data Analytics using MySQL**
+* 🐍 Building projects with **Basic Python**
+* 📈 Creating dashboards and reports using **Microsoft Excel**
+* 🚀 Interested in **Data Analyst Internships and Entry-Level Opportunities**
+* 🌱 Learning through practical projects and continuous practice
 
 ---
 
@@ -44,132 +39,179 @@ I enjoy working with data, solving problems, and creating practical projects tha
 
 ### 📊 Data Analytics & Spreadsheet
 
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
-![Data Analytics](https://img.shields.io/badge/Data_Analytics-0078D4?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF6F00?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-1F6FEB?style=for-the-badge)
 
-### 🐍 Programming
+* Excel Formulas
+* Sorting & Filtering
+* Conditional Formatting
+* Data Organization
+* Charts & Visualization
+* Dashboard Creation
+* Basic Data Analysis
+* Data Cleaning Concepts
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-### 🗄️ Database
+### 🗄️ SQL & Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-### 💻 Tools
+* SQL Fundamentals
+* Creating Tables
+* CRUD Operations
+* Filtering & Sorting
+* SQL Functions
+* GROUP BY
+* JOINs
+* Basic Database Concepts
 
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+### 🐍 Python
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+* Variables & Data Types
+* Conditions
+* Loops
+* Functions
+* Lists, Tuples, Sets & Dictionaries
+* File Handling
+* Error Handling
+* Basic Python Projects
+
+### 🔧 Tools
+
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-| 📊 Project                               |     🛠️ Technology    | 📝 Description                                                                                        |
-| :--------------------------------------- | :-------------------: | :---------------------------------------------------------------------------------------------------- |
-| 📞 **Call Center Performance Dashboard** |        `Excel`        | Interactive dashboard for analyzing call center performance and operational metrics.                  |
-| 💰 **Personal Expense Tracker**          |        `Excel`        | Excel-based tracker to record, categorize, and monitor income and expenses.                           |
-| 🐍 **Python Mini Projects**              |        `Python`       | Collection of beginner projects including games, automation tools, and utility applications.          |
-| 🤖 **GuffiInsight**                      | `Lovable` `Analytics` | AI-powered SaaS platform that transforms Excel and CSV data into interactive dashboards and insights. |
+## 📞 Call Center Performance Dashboard — Microsoft Excel
 
----
+Created an interactive Excel dashboard to analyze call center performance and operational metrics.
 
-## 📊 My Data Analytics Journey
+### 🔑 Key Highlights
 
-```text
-Introduction to Data Analytics     ✅ Completed
-Basic Excel for Data Analytics     ✅ Completed
-Basic Python Programming           ✅ Completed
-SQL for Data Analytics             🔄 Currently Learning
-Data Visualization                 🔄 Improving
-```
+* Analyzed call center performance data
+* Created charts and dashboard elements
+* Presented important KPIs in an easy-to-understand format
+* Identified performance trends and generated data-driven insights
+
+**Tech Used:** `Microsoft Excel` `Excel Charts` `Dashboard`
 
 ---
 
-## 🐍 Python Projects
+## 💰 Personal Expense Tracker — Microsoft Excel
 
-Some of my beginner-level Python projects:
+Built an Excel-based expense tracker to record, categorize, and monitor personal income and expenses.
+
+### 🔑 Key Highlights
+
+* Organized income and expense records
+* Used Excel formulas for calculations
+* Applied formatting and charts
+* Visualized personal spending patterns
+
+**Tech Used:** `Microsoft Excel` `Excel Formulas` `Charts`
+
+---
+
+## 🐍 Python Mini Projects
+
+Built several beginner-level Python applications while learning Python fundamentals.
+
+### 📌 Projects Include
 
 * 🎮 Snake, Water & Gun Game
-* 📁 File Organizer
+* 📂 File Organizer
 * ⌨️ Typing Speed Tester
-* 🧠 Quiz App
-* 📄 PDF Merger GUI
+* 📝 Quiz App
+* 📄 PDF Merger
 * 💧 Water Drinking Reminder
 * 🔐 Password Manager
 
-These projects helped me practice:
-
-`Variables` • `Data Types` • `Conditions` • `Loops` • `Functions` • `Lists` • `Dictionaries` • `File Handling` • `Error Handling`
+**Concepts Used:** `Variables` `Data Types` `Conditions` `Loops` `Functions` `File Handling` `Error Handling`
 
 ---
 
-## 🌐 GuffiInsight — AI-Powered Analytics
+## 🚀 GuffiInsight — AI-Powered Analytics Platform
 
-**GuffiInsight** is a SaaS project I am exploring to simplify data analysis.
+An experimental SaaS project designed to help users analyze Excel and CSV data and generate interactive dashboards and insights.
 
-The platform is designed to help users transform **Excel and CSV files into interactive dashboards, charts, AI-generated insights, and PDF reports**.
+🔗 **Live Project:** https://guffiinsight.lovable.app/
 
-🔗 **Live Project:** [GuffiInsight](https://guffiinsight.lovable.app/)
+**Built/Explored With:** `Lovable` `AI Tools` `Data Analytics Concepts`
 
----
-
-## 🎓 Education
-
-**Integrated M.Sc. IT**
-LJ University, Ahmedabad
-`2022 – 2027`
+> Currently exploring how AI and SaaS can simplify data analysis for users.
 
 ---
 
-## 📈 Currently Learning
+# 📚 Currently Learning
 
 * 📊 Data Analytics Fundamentals
-* 📗 Microsoft Excel
-* 🐍 Python
-* 🗄️ SQL & MySQL
-* 📈 Data Visualization
-* 💡 Business Problem Solving
+* 📗 SQL for Data Analytics with MySQL
+* 🐍 Python for Data Analysis
+* 📈 Excel Data Analysis & Dashboarding
+* 🧹 Data Cleaning Concepts
+* 📊 Data Visualization Fundamentals
 
 ---
 
-## 🎯 Career Goal
+# 🎯 Career Goal
 
-My goal is to start my career as a **Data Analyst** and gain practical experience working with real-world datasets.
+I am looking for opportunities where I can:
 
-I am currently looking for:
+* Gain practical experience with real-world datasets
+* Work with experienced professionals
+* Improve my SQL, Excel, and Python skills
+* Build practical Data Analytics projects
+* Contribute to data-driven decision-making
 
-**🔹 Data Analytics Internships**
-**🔹 Data Analyst Internships**
-**🔹 Entry-Level Data Analyst Opportunities**
-**🔹 Remote / Ahmedabad Opportunities**
+**Open to:** Data Analytics Internships | Data Analyst Internships | Entry-Level Opportunities
+
+📍 **Location:** Ahmedabad / Remote
 
 ---
 
-## 📫 Let's Connect
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SHAIKHGUFRAN-13&show_icons=true&theme=tokyonight&hide_border=true" alt="Gufran's GitHub Stats"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAIKHGUFRAN-13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=SHAIKHGUFRAN-13&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+# 📫 Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/gufran-shaikh-analyst">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Gufran%20Shaikh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:gufranshaikh1382004@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-gufranshaikh1382004%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://github.com/SHAIKHGUFRAN-13">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-SHAIKHGUFRAN--13-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=SHAIKHGUFRAN-13&color=0077B5&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-
-<br/><br/>
-
-⭐️ *Always learning, always building.* 🚀
+⭐️ *Always learning. Always building. Always improving.*
 
 </div>
