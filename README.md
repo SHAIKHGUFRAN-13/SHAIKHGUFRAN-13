@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Gufran Shaikh
 
-### 📊 Aspiring Data Analyst | Excel • SQL • Python
+### 📊 Aspiring Data Analyst | Business Analyst
 
 *Turning data into insights and continuously learning through practical projects.*
 
